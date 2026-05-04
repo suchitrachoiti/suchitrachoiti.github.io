@@ -36,10 +36,11 @@ I am actively involved in the academic community, participating in research boot
 
 ---
 
-###  Achievements
-*   **Volunteer Appreciation Certificate:** IEEE Computer Society LU SB Chapter
-*   **LURS Appreciation:** Recognized for coordination and hosting at the 2nd Student Research Conference
-*   **LUMUNA:** Executive Member of the Steering Committee (2023–2024)
+### Achievements
+* **Volunteer Appreciation Certificate:** IEEE Computer Society LU SB Chapter
+* **LUMUNA:** Executive Member of the Steering Committee (2023–2024)
+* **LURS Appreciation:** Recognized for coordination and hosting at the 2nd Student Research Conference
+
 ---
 
 ###  Let's Connect!
