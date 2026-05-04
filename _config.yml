@@ -1,5 +1,5 @@
-title: Suchitra Das Choiti
-logo: /assets/img/headshot_circle.png
-show_downloads: true
-theme: jekyll-theme-minimal
-
+theme: jekyll-theme-cayman
+title: Suchitra Das Choiti | Portfolio
+description: Computer Science Student at Leading University | ML Enthusiast
+show_downloads: false
+google_analytics:
