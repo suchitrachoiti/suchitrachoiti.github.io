@@ -1,48 +1,50 @@
 # Suchitra Das Choiti
-**CSE Student | Leading University, Sylhet**
-
-![Profile Picture](<img src="profile2.jpeg" alt="Suchitra Das Choiti" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; display: block; margin: 0 auto; border: 1px solid #ddd;">) 
-
-##  About Me
-I am a Computer Science student in my last semester at Leading University. I have a deep passion for technology and innovation, focusing on turning logic into impactful solutions. I am currently active in Machine Learning research and leadership within the tech community.
+**CSE Student at Leading University | ML Enthusiast**
 
 ---
 
-##  Technical Skills
-*   **Programming:** C, C++, Python
-*   **Web Technologies:** HTML, CSS, JavaScript, Bootstrap
-*   **ML Tools:** XGBoost, SHAP, LIME 
-*   **Platforms:** GitHub, VS Code, PyCharm, CodeBlocks
-*   **Office Suite:** Microsoft Word, Excel, PowerPoint
+<img src="profile2.jpeg" alt="Suchitra Das Choiti" style="border-radius: 20px; width: 220px; float: left; margin-right: 30px; border: 2px solid #0076ff; padding: 5px;">
+
+### 👩‍💻 About Me
+I am a driven and curious last semester Computer Science student at **Leading University**[cite: 1]. I have a deep passion for technology and innovation, specifically focusing on how logic can solve complex challenges[cite: 1]. My ambition is to contribute meaningfully to a dynamic professional environment where I can expand my skills in Machine Learning and software development[cite: 1].
+
+I am actively involved in the academic community, participating in research bootcamps and technical seminars to stay at the forefront of emerging technologies[cite: 1].
+
+<div style="clear: both;"></div>
 
 ---
 
-##  Education
-*   **B.Sc. in Computer Science & Engineering** | Leading University (2022–Present)
-*   **Higher Secondary Certificate** | M.C. College, Sylhet
-*   **Secondary School Certificate** | Gowainghat Model High School
+### 🛠 Technical Toolbox
+*   **Programming:** C, C++, Python (Special focus on Machine Learning)[cite: 1]
+*   **Web Development:** HTML, CSS, JavaScript, Bootstrap[cite: 1]
+*   **Specialized Tools:** GitHub, Visual Studio Code, PyCharm, CodeBlocks[cite: 1]
+*   **Soft Skills:** Leadership, Public Speaking, Event Management, and Technical Moderation[cite: 1]
 
 ---
 
-##  Leadership & Experience
-*   **Publications and Newsletter Coordinator:** IEEE Computer Society LU SB Chapter (2025–Present)
-*   **Executive Member:** Leading University Social Services Club
-*   **Event Host:** Hosted the "Bootcamp on Research Practices in Machine Learning" and the 2nd Student Research Conference (LURS)
-*   **Volunteer:** IEEE Day 2024 & 2025
+### 🎓 Academic Background
+*   **B.Sc. in Computer Science & Engineering** | Leading University, Sylhet (2022–Present)[cite: 1]
+*   **Higher Secondary Certificate** | M.C. College, Sylhet[cite: 1]
+*   **Secondary School Certificate** | Gowainghat Model High School[cite: 1]
 
 ---
 
-##  Projects & Research
-*   **Digital Payment Adoption Research:** Predicting and explaining adoption for tea plantation workers using XGBoost and XAI tools.
+### 🏛 Organizational Leadership
+*   **Publications & Newsletter Coordinator:** IEEE Computer Society LU SB Chapter (2025–Present)[cite: 1]
+*   **Executive Member:** Leading University Social Services Club (2024–Present)[cite: 1]
+*   **Host:** "Bootcamp on Research Practices in Machine Learning" & 2nd Student Research Conference (LURS)[cite: 1]
+*   **Volunteer:** IEEE Day (2024, 2025) and "Binary Hunting" Programming Contest[cite: 1]
 
 ---
 
-##  Personal Interests
-*   **Literature:** Reading Bengali fiction and non-fiction.
-*   **Hobbies:** Drawing, sketching, and traveling.
+### 🌟 Achievements
+*   **Volunteer Appreciation Certificate:** IEEE Computer Society LU SB Chapter[cite: 1]
+*   **LURS Appreciation:** Recognized for coordination and hosting at the 2nd Student Research Conference[cite: 1]
+*   **LUMUNA:** Executive Member of the Steering Committee (2023–2024)[cite: 1]
 
 ---
 
-##  Contact
-*   **Email:** [suchitrachoitiofficial@gmail.com](mailto:suchitrachoitiofficial@gmail.com)
-*   **Phone:** +8801609534251
+### 📫 Let's Connect!
+*   **Email:** [suchitrachoitiofficial@gmail.com](mailto:suchitrachoitiofficial@gmail.com)[cite: 1]
+*   **Phone:** +8801609534251[cite: 1]
+*   **Interests:** Bengali Literature, Technical Writing, and Traveling[cite: 1]
