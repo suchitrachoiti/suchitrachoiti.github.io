@@ -1,5 +1,3 @@
-# Suchitra Das Choiti
-**CSE Student at Leading University | ML Enthusiast**
 
 ---
 
