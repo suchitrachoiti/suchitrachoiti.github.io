@@ -1,51 +1,48 @@
 # Suchitra Das Choiti
-**Computer Science & Engineering Student | Leading University**[cite: 1]
+**CSE Student | Leading University, Sylhet**
+
+![Profile Picture](profile.jpg) 
+
+##  About Me
+I am a Computer Science student in my last semester at Leading University. I have a deep passion for technology and innovation, focusing on turning logic into impactful solutions. I am currently active in Machine Learning research and leadership within the tech community.
 
 ---
 
-**Current Focus:** Machine Learning research (XGBoost, XAI) and Digital Content Creation.
+##  Technical Skills
+*   **Programming:** C, C++, Python
+*   **Web Technologies:** HTML, CSS, JavaScript, Bootstrap
+*   **ML Tools:** XGBoost, SHAP, LIME 
+*   **Platforms:** GitHub, VS Code, PyCharm, CodeBlocks
+*   **Office Suite:** Microsoft Word, Excel, PowerPoint
 
 ---
 
-## 🎓 Education
-*   **Bachelor of Computer Science & Engineering** | Leading University (2022–Present)[cite: 1]
-*   **Higher Secondary Certificate** | M.C. College, Sylhet (Science)[cite: 1]
-*   **Secondary School Certificate** | Gowainghat Model High School (Science)[cite: 1]
+##  Education
+*   **B.Sc. in Computer Science & Engineering** | Leading University (2022–Present)
+*   **Higher Secondary Certificate** | M.C. College, Sylhet
+*   **Secondary School Certificate** | Gowainghat Model High School
 
 ---
 
-## 🛠 Skills
-*   **Programming:** C, C++, Python[cite: 1]
-*   **Web Technologies:** HTML, CSS, JavaScript, Bootstrap[cite: 1]
-*   **Tools:** GitHub, VS Code, PyCharm, CodeBlocks[cite: 1]
-*   **Soft Skills:** Leadership, Event Hosting, Public Speaking[cite: 1]
+##  Leadership & Experience
+*   **Publications and Newsletter Coordinator:** IEEE Computer Society LU SB Chapter (2025–Present)
+*   **Executive Member:** Leading University Social Services Club
+*   **Event Host:** Hosted the "Bootcamp on Research Practices in Machine Learning" and the 2nd Student Research Conference (LURS)
+*   **Volunteer:** IEEE Day 2024 & 2025
 
 ---
 
-## 🏆 Achievements & Leadership
-*   **Publications & Newsletter Coordinator** | IEEE Computer Society LU SB Chapter (2025–Present)[cite: 1]
-*   **Executive Member** | Leading University Social Services Club (2024–Present)[cite: 1]
-*   **Executive Member** | LUMUNA Steering Committee (2023–2024)[cite: 1]
-*   **Host** | Bootcamp on Research Practices in Machine Learning[cite: 1]
+##  Projects & Research
+*   **Digital Payment Adoption Research:** Predicting and explaining adoption for tea plantation workers using XGBoost and XAI tools.
 
 ---
 
-## 🌟 Organizational Experience
-*   **IEEE Day 2024 & 2025:** Volunteered for logistics and outreach[cite: 1].
-*   **LURS 2nd Student Research Conference:** Hosted and coordinated sessions[cite: 1].
-*   **Binary Hunting Programming Contest:** Technical assistant for participants[cite: 1].
-*   **Industry Visit - "Binary to Blue":** Professional networking and industry exposure[cite: 1].
+##  Personal Interests
+*   **Literature:** Reading Bengali fiction and non-fiction.
+*   **Hobbies:** Drawing, sketching, and traveling.
 
 ---
 
-## 🎨 Personal Interests
-*   **Digital Creation:** Dress designing and handmade jewelry[cite: 1].
-*   **Literary:** Reading Bengali Literature (Bibhutibhushan Bandyopadhyay)[cite: 1].
-*   **Hobbies:** Drawing, Sketching, and Traveling[cite: 1].
-
----
-
-## 📬 Contact Me
-*   **Email:** [suchitrachoitiofficial@gmail.com](mailto:suchitrachoitiofficial@gmail.com)[cite: 1]
-*   **Phone:** +8801609534251[cite: 1]
-*   **Location:** Sylhet, Bangladesh
+## 📧 Contact
+*   **Email:** [suchitrachoitiofficial@gmail.com](mailto:suchitrachoitiofficial@gmail.com)
+*   **Phone:** +8801609534251
