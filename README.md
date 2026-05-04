@@ -1,7 +1,7 @@
 # Suchitra Das Choiti
 **CSE Student | Leading University, Sylhet**
 
-![Profile Picture](profile2.jpeg) 
+![Profile Picture](<img src="profile2.jpeg" alt="Suchitra Das Choiti" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover; display: block; margin: 0 auto; border: 1px solid #ddd;">) 
 
 ##  About Me
 I am a Computer Science student in my last semester at Leading University. I have a deep passion for technology and innovation, focusing on turning logic into impactful solutions. I am currently active in Machine Learning research and leadership within the tech community.
