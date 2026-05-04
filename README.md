@@ -1,7 +1,7 @@
 # Suchitra Das Choiti
 **CSE Student | Leading University, Sylhet**
 
-![Profile Picture](profile.jpg) 
+![Profile Picture](profile.jpeg) 
 
 ##  About Me
 I am a Computer Science student in my last semester at Leading University. I have a deep passion for technology and innovation, focusing on turning logic into impactful solutions. I am currently active in Machine Learning research and leadership within the tech community.
