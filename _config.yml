@@ -1,3 +1,9 @@
 theme: jekyll-theme-architect
 title: Suchitra Das Choiti
-description: Computer Science Student 
+description: Computer Science Student at Leading University | Machine Learning Enthusiast
+show_downloads: false
+
+# This adds a professional "Follow me on GitHub" button in the header
+github:
+  is_project_page: false
+  repository_url: https://github.com/suchitrachoiti
